@@ -1,7 +1,6 @@
 package app.utils;
 
 import app.exceptions.*;
-import by.bsuir.exceptions.*;
 import com.fasterxml.jackson.core.JsonParseException;
 import jakarta.validation.ConstraintViolationException;
 import org.springframework.http.HttpStatus;
